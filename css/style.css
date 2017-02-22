@@ -74,3 +74,19 @@
 
 
 }
+
+@media only screen and (max-device-width: 365px) and (max-device-height:645px) {
+   
+    
+    .test{
+    width: 100%;
+    /*height: auto;*/
+    background-size: contain;
+    text-align: center;
+    height: 568px;
+}
+
+   
+
+
+}
