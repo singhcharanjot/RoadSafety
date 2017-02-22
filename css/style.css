@@ -1,10 +1,76 @@
-.test{
-    width: 100%;
-    height: 112%;
-    background-size: cover;
-    text-align: center;
-}
+
 .test1
 {
  /*overflow: hidden;*/
+}
+ body { 
+        margin:0px;
+        /*background-image: url('../img/testimage.png');*/ 
+        overflow: hidden;
+        
+    }
+
+@media only screen and (max-device-width: 415px) and (max-device-height:735px) {
+   
+    
+    .test{
+    width: 100%;
+    /*height: auto;*/
+    background-size: contain;
+    text-align: center;
+    height: 663px;
+}
+
+   
+
+
+}
+
+@media only screen and (max-device-width: 325px) and (max-device-height:570px) {
+   
+    
+    .test{
+    width: 100%;
+    /*height: auto;*/
+    background-size: contain;
+    text-align: center;
+    height: 568px;
+}
+
+   
+
+
+}
+
+
+@media only screen and (max-device-width: 325px) and (max-device-height:570px) {
+   
+    
+    .test{
+    width: 100%;
+    /*height: auto;*/
+    background-size: contain;
+    text-align: center;
+    height: 568px;
+}
+
+   
+
+
+}
+
+@media only screen and (max-device-width: 380px) and (max-device-height:670px) {
+   
+    
+    .test{
+    width: 100%;
+    /*height: auto;*/
+    background-size: contain;
+    text-align: center;
+    height: 668px;
+}
+
+   
+
+
 }
